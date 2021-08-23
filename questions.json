@@ -1,0 +1,44 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript??",
+      "choice1": "<script>",
+      "choice2": "<javascript>",
+      "choice3": "<js>",
+      "choice4": "<scripting>",
+      "answer": 1
+    },
+    {
+        "question":"Who is the C.E.O. of Infosys??",
+        "choice1": "Satya Nadella",
+        "choice2": "Rajesh Gopinathan",
+        "choice3": "Salil Parekh",
+        "choice4": "Sudha Murty",
+        "answer": 3
+  
+    },
+    {
+      "question":"Who was captain of Indian men's Cricket team when India won world-cup in 2011??",
+      "choice1": "Virat Kholi",
+      "choice2": "Rahul Dravid",
+      "choice3": "Kapil Dev",
+      "choice4": "M. S. Dhoni",
+      "answer": 4
+  
+  },
+    {
+      "question":"What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "choice1": "<script href='xxx.js'>",
+      "choice2": "<script name='xxx.js'>",
+      "choice3": "<script src='xxx.js'>",
+      "choice4": "<script file='xxx.js'>",
+      "answer": 3
+    },
+    {
+      "question": " How do you write 'Hello World' in an alert box?",
+      "choice1": "msgBox('Hello World');",
+      "choice2": "alertBox('Hello World');",
+      "choice3": "msg('Hello World');",
+      "choice4": "alert('Hello World');",
+      "answer": 4
+    }
+  ]
